@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the repository README from submitted LeetCode solutions."""
+"""Generate the repository README from submitted LeetCode solutions.\n\nRun by GitHub Actions after solution pushes or manually via workflow_dispatch.\n"""
 from __future__ import annotations
 import json, re, sys, time
 from collections import defaultdict
