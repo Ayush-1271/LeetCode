@@ -1,0 +1,53 @@
+name: Update LeetCode README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.py"
+      - "**/*.cpp"
+      - "**/*.cc"
+      - "**/*.c"
+      - "**/*.java"
+      - "**/*.js"
+      - "**/*.ts"
+      - "**/*.go"
+      - "**/*.rs"
+      - "**/*.cs"
+      - "**/*.kt"
+      - "**/*.swift"
+      - "*/README.md"
+      - "scripts/generate_readme.py"
+      - ".github/workflows/update-readme.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-leetcode-readme
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate README and metadata cache
+        run: python scripts/generate_readme.py
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/problems.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update LeetCode topic README"
+            git push
+          else
+            echo "README is already up to date."
+          fi
