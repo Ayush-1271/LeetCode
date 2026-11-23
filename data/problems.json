@@ -1528,5 +1528,31 @@
         "slug": "bracket-sequences"
       }
     ]
+  },
+  "product-of-the-last-k-numbers": {
+    "title": "Product of the Last K Numbers",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
   }
 }

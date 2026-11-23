@@ -6,17 +6,17 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 | Metric | Count |
 |---|---:|
-| Unique problems solved (solutions in this repository) | **82** |
-| Topics attempted | **37** |
+| Unique problems solved (solutions in this repository) | **83** |
+| Topics attempted | **39** |
 | Easy | 24 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 15 |
 
 > A problem is counted once, even if it has multiple solution files or belongs to multiple topics.
 
 ## Solutions by Topic
 
-### Array (56)
+### Array (57)
 
 - [**Two Sum**](https://leetcode.com/problems/two-sum/) — Easy · [two-sum.py](1-two-sum/two-sum.py)
 - [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) — Easy · [remove-duplicates-from-sorted-array.py](26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)
@@ -39,6 +39,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) — Medium · [subarray-sum-equals-k.py](560-subarray-sum-equals-k/subarray-sum-equals-k.py)
 - [**Number of Closed Islands**](https://leetcode.com/problems/number-of-closed-islands/) — Medium · [number-of-closed-islands.py](1380-number-of-closed-islands/number-of-closed-islands.py)
 - [**Count Servers that Communicate**](https://leetcode.com/problems/count-servers-that-communicate/) — Medium · [count-servers-that-communicate.py](1396-count-servers-that-communicate/count-servers-that-communicate.py)
+- [**Product of the Last K Numbers**](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Medium · [product-of-the-last-k-numbers.py](1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.py)
 - [**Find the Distance Value Between Two Arrays**](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) — Easy · [find-the-distance-value-between-two-arrays.py](1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.py)
 - [**Find Two Non-overlapping Sub-arrays Each With Target Sum**](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) — Medium · [find-two-non-overlapping-sub-arrays-each-with-target-sum.py](1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.py)
 - [**Number of Sub-arrays With Odd Sum**](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) — Medium · [number-of-sub-arrays-with-odd-sum.py](1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py)
@@ -139,12 +140,20 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Majority Element**](https://leetcode.com/problems/majority-element/) — Easy · [majority-element.py](169-majority-element/majority-element.py)
 - [**Count Servers that Communicate**](https://leetcode.com/problems/count-servers-that-communicate/) — Medium · [count-servers-that-communicate.py](1396-count-servers-that-communicate/count-servers-that-communicate.py)
 
+### Data Stream (1)
+
+- [**Product of the Last K Numbers**](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Medium · [product-of-the-last-k-numbers.py](1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.py)
+
 ### Depth-First Search (4)
 
 - [**Number of Closed Islands**](https://leetcode.com/problems/number-of-closed-islands/) — Medium · [number-of-closed-islands.py](1380-number-of-closed-islands/number-of-closed-islands.py)
 - [**Count Servers that Communicate**](https://leetcode.com/problems/count-servers-that-communicate/) — Medium · [count-servers-that-communicate.py](1396-count-servers-that-communicate/count-servers-that-communicate.py)
 - [**Count Islands With Total Value Divisible by K**](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) — Medium · [count-islands-with-total-value-divisible-by-k.py](3823-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.py)
 - [**Palindromic Path Queries in a Tree**](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) — Hard · [palindromic-path-queries-in-a-tree.py](4209-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.py)
+
+### Design (1)
+
+- [**Product of the Last K Numbers**](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Medium · [product-of-the-last-k-numbers.py](1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.py)
 
 ### Divide and Conquer (4)
 
@@ -218,12 +227,13 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Minimum Sum of Squared Difference**](https://leetcode.com/problems/minimum-sum-of-squared-difference/) — Medium · [minimum-sum-of-squared-difference.py](2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 
-### Math (15)
+### Math (16)
 
 - [**Rotate Image**](https://leetcode.com/problems/rotate-image/) — Medium · [rotate-image.py](48-rotate-image/rotate-image.py)
 - [**Rotate Array**](https://leetcode.com/problems/rotate-array/) — Medium · [rotate-array.py](189-rotate-array/rotate-array.py)
 - [**Minimum Moves to Equal Array Elements**](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) — Medium · [minimum-moves-to-equal-array-elements.py](453-minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.py)
 - [**Minimum Moves to Equal Array Elements II**](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) — Medium · [minimum-moves-to-equal-array-elements-ii.py](462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.py)
+- [**Product of the Last K Numbers**](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Medium · [product-of-the-last-k-numbers.py](1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.py)
 - [**Circle and Rectangle Overlapping**](https://leetcode.com/problems/circle-and-rectangle-overlapping/) — Medium · [circle-and-rectangle-overlapping.py](1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py)
 - [**Number of Sub-arrays With Odd Sum**](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) — Medium · [number-of-sub-arrays-with-odd-sum.py](1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py)
 - [**Count Days Spent Together**](https://leetcode.com/problems/count-days-spent-together/) — Easy · [count-days-spent-together.py](2496-count-days-spent-together/count-days-spent-together.py)
@@ -264,9 +274,10 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 - [**Find Servers That Handled Most Number of Requests**](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) — Hard · [find-servers-that-handled-most-number-of-requests.py](1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.py)
 
-### Prefix Sum (5)
+### Prefix Sum (6)
 
 - [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) — Medium · [subarray-sum-equals-k.py](560-subarray-sum-equals-k/subarray-sum-equals-k.py)
+- [**Product of the Last K Numbers**](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Medium · [product-of-the-last-k-numbers.py](1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.py)
 - [**Number of Sub-arrays With Odd Sum**](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) — Medium · [number-of-sub-arrays-with-odd-sum.py](1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py)
 - [**Minimum Operations to Reduce X to Zero**](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) — Medium · [minimum-operations-to-reduce-x-to-zero.py](1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py)
 - [**Minimum Positive Sum Subarray **](https://leetcode.com/problems/minimum-positive-sum-subarray/) — Easy · [minimum-positive-sum-subarray.py](3644-minimum-positive-sum-subarray/minimum-positive-sum-subarray.py)
