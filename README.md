@@ -6,9 +6,9 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 | Metric | Count |
 |---|---:|
-| Unique problems solved (solutions in this repository) | **83** |
-| Topics attempted | **39** |
-| Easy | 24 |
+| Unique problems solved (solutions in this repository) | **84** |
+| Topics attempted | **40** |
+| Easy | 25 |
 | Medium | 44 |
 | Hard | 15 |
 
@@ -16,7 +16,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 ## Solutions by Topic
 
-### Array (57)
+### Array (58)
 
 - [**Two Sum**](https://leetcode.com/problems/two-sum/) — Easy · [two-sum.py](1-two-sum/two-sum.py)
 - [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) — Easy · [remove-duplicates-from-sorted-array.py](26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)
@@ -61,6 +61,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Maximize Consecutive Elements in an Array After Modification**](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — Hard · [maximize-consecutive-elements-in-an-array-after-modification.py](3298-maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.py)
 - [**Minimum Positive Sum Subarray **](https://leetcode.com/problems/minimum-positive-sum-subarray/) — Easy · [minimum-positive-sum-subarray.py](3644-minimum-positive-sum-subarray/minimum-positive-sum-subarray.py)
 - [**Count Non-Decreasing Subarrays After K Operations**](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) — Hard · [count-non-decreasing-subarrays-after-k-operations.py](3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.py)
+- [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 - [**Count Islands With Total Value Divisible by K**](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) — Medium · [count-islands-with-total-value-divisible-by-k.py](3823-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.py)
 - [**Find X Value of Array I**](https://leetcode.com/problems/find-x-value-of-array-i/) — Medium · [find-x-value-of-array-i.py](3831-find-x-value-of-array-i/find-x-value-of-array-i.py)
@@ -181,9 +182,10 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Climbing Stairs II**](https://leetcode.com/problems/climbing-stairs-ii/) — Medium · [climbing-stairs-ii.py](4041-climbing-stairs-ii/climbing-stairs-ii.py)
 - [**Minimum XOR Path in a Grid**](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) — Medium · [minimum-xor-path-in-a-grid.py](4205-minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.py)
 
-### Enumeration (2)
+### Enumeration (3)
 
 - [**Sum of Squares of Special Elements **](https://leetcode.com/problems/sum-of-squares-of-special-elements/) — Easy · [sum-of-squares-of-special-elements.py](2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.py)
+- [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Sum of Sortable Integers**](https://leetcode.com/problems/sum-of-sortable-integers/) — Hard · [sum-of-sortable-integers.py](4257-sum-of-sortable-integers/sum-of-sortable-integers.py)
 
 ### Geometry (1)
@@ -227,7 +229,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Minimum Sum of Squared Difference**](https://leetcode.com/problems/minimum-sum-of-squared-difference/) — Medium · [minimum-sum-of-squared-difference.py](2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 
-### Math (16)
+### Math (17)
 
 - [**Rotate Image**](https://leetcode.com/problems/rotate-image/) — Medium · [rotate-image.py](48-rotate-image/rotate-image.py)
 - [**Rotate Array**](https://leetcode.com/problems/rotate-array/) — Medium · [rotate-array.py](189-rotate-array/rotate-array.py)
@@ -237,6 +239,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Circle and Rectangle Overlapping**](https://leetcode.com/problems/circle-and-rectangle-overlapping/) — Medium · [circle-and-rectangle-overlapping.py](1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py)
 - [**Number of Sub-arrays With Odd Sum**](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) — Medium · [number-of-sub-arrays-with-odd-sum.py](1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py)
 - [**Count Days Spent Together**](https://leetcode.com/problems/count-days-spent-together/) — Easy · [count-days-spent-together.py](2496-count-days-spent-together/count-days-spent-together.py)
+- [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 - [**Find X Value of Array I**](https://leetcode.com/problems/find-x-value-of-array-i/) — Medium · [find-x-value-of-array-i.py](3831-find-x-value-of-array-i/find-x-value-of-array-i.py)
 - [**Find X Value of Array II**](https://leetcode.com/problems/find-x-value-of-array-ii/) — Hard · [find-x-value-of-array-ii.py](3840-find-x-value-of-array-ii/find-x-value-of-array-ii.py)
@@ -269,6 +272,10 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 ### Monotonic Stack (1)
 
 - [**Count Non-Decreasing Subarrays After K Operations**](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) — Hard · [count-non-decreasing-subarrays-after-k-operations.py](3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.py)
+
+### Number Theory (1)
+
+- [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 
 ### Ordered Set (1)
 
@@ -308,13 +315,14 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Calculate Digit Sum of a String**](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) — Easy · [calculate-digit-sum-of-a-string.py](2361-calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.py)
 - [**Reverse Degree of a String**](https://leetcode.com/problems/reverse-degree-of-a-string/) — Easy · [reverse-degree-of-a-string.py](3811-reverse-degree-of-a-string/reverse-degree-of-a-string.py)
 
-### Sliding Window (6)
+### Sliding Window (7)
 
 - [**Find Two Non-overlapping Sub-arrays Each With Target Sum**](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) — Medium · [find-two-non-overlapping-sub-arrays-each-with-target-sum.py](1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.py)
 - [**Minimum Operations to Reduce X to Zero**](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) — Medium · [minimum-operations-to-reduce-x-to-zero.py](1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py)
 - [**Count Zero Request Servers**](https://leetcode.com/problems/count-zero-request-servers/) — Medium · [count-zero-request-servers.py](2833-count-zero-request-servers/count-zero-request-servers.py)
 - [**Minimum Positive Sum Subarray **](https://leetcode.com/problems/minimum-positive-sum-subarray/) — Easy · [minimum-positive-sum-subarray.py](3644-minimum-positive-sum-subarray/minimum-positive-sum-subarray.py)
 - [**Count Non-Decreasing Subarrays After K Operations**](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) — Hard · [count-non-decreasing-subarrays-after-k-operations.py](3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.py)
+- [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 
 ### Sorting (13)

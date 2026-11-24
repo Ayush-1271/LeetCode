@@ -1554,5 +1554,31 @@
         "slug": "prefix-sum"
       }
     ]
+  },
+  "maximum-subarray-with-equal-products": {
+    "title": "Maximum Subarray With Equal Products",
+    "difficulty": "Easy",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
   }
 }
