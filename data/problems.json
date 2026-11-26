@@ -1580,5 +1580,19 @@
         "slug": "number-theory"
       }
     ]
+  },
+  "stone-removal-game": {
+    "title": "Stone Removal Game",
+    "difficulty": "Easy",
+    "topics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
   }
 }

@@ -6,9 +6,9 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 | Metric | Count |
 |---|---:|
-| Unique problems solved (solutions in this repository) | **84** |
+| Unique problems solved (solutions in this repository) | **85** |
 | Topics attempted | **40** |
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 44 |
 | Hard | 15 |
 
@@ -229,7 +229,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Minimum Sum of Squared Difference**](https://leetcode.com/problems/minimum-sum-of-squared-difference/) — Medium · [minimum-sum-of-squared-difference.py](2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 
-### Math (17)
+### Math (18)
 
 - [**Rotate Image**](https://leetcode.com/problems/rotate-image/) — Medium · [rotate-image.py](48-rotate-image/rotate-image.py)
 - [**Rotate Array**](https://leetcode.com/problems/rotate-array/) — Medium · [rotate-array.py](189-rotate-array/rotate-array.py)
@@ -239,6 +239,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Circle and Rectangle Overlapping**](https://leetcode.com/problems/circle-and-rectangle-overlapping/) — Medium · [circle-and-rectangle-overlapping.py](1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py)
 - [**Number of Sub-arrays With Odd Sum**](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) — Medium · [number-of-sub-arrays-with-odd-sum.py](1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.py)
 - [**Count Days Spent Together**](https://leetcode.com/problems/count-days-spent-together/) — Easy · [count-days-spent-together.py](2496-count-days-spent-together/count-days-spent-together.py)
+- [**Stone Removal Game**](https://leetcode.com/problems/stone-removal-game/) — Easy · [stone-removal-game.py](3625-stone-removal-game/stone-removal-game.py)
 - [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
 - [**Find X Value of Array I**](https://leetcode.com/problems/find-x-value-of-array-i/) — Medium · [find-x-value-of-array-i.py](3831-find-x-value-of-array-i/find-x-value-of-array-i.py)
@@ -306,13 +307,14 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Palindromic Path Queries in a Tree**](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) — Hard · [palindromic-path-queries-in-a-tree.py](4209-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.py)
 - [**Minimum Operations to Sort With Locked Indices**](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) — Medium · [minimum-operations-to-sort-with-locked-indices.py](4325-minimum-operations-to-sort-with-locked-indices/minimum-operations-to-sort-with-locked-indices.py)
 
-### Simulation (6)
+### Simulation (7)
 
 - [**Spiral Matrix**](https://leetcode.com/problems/spiral-matrix/) — Medium · [spiral-matrix.py](54-spiral-matrix/spiral-matrix.py)
 - [**Find Servers That Handled Most Number of Requests**](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) — Hard · [find-servers-that-handled-most-number-of-requests.py](1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.py)
 - [**Partition Array According to Given Pivot**](https://leetcode.com/problems/partition-array-according-to-given-pivot/) — Medium · [partition-array-according-to-given-pivot.py](2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.py)
 - [**Rearrange Array Elements by Sign**](https://leetcode.com/problems/rearrange-array-elements-by-sign/) — Medium · [rearrange-array-elements-by-sign.py](2271-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.py)
 - [**Calculate Digit Sum of a String**](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) — Easy · [calculate-digit-sum-of-a-string.py](2361-calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.py)
+- [**Stone Removal Game**](https://leetcode.com/problems/stone-removal-game/) — Easy · [stone-removal-game.py](3625-stone-removal-game/stone-removal-game.py)
 - [**Reverse Degree of a String**](https://leetcode.com/problems/reverse-degree-of-a-string/) — Easy · [reverse-degree-of-a-string.py](3811-reverse-degree-of-a-string/reverse-degree-of-a-string.py)
 
 ### Sliding Window (7)
