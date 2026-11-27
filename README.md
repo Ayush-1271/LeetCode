@@ -6,17 +6,17 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 | Metric | Count |
 |---|---:|
-| Unique problems solved (solutions in this repository) | **85** |
+| Unique problems solved (solutions in this repository) | **86** |
 | Topics attempted | **40** |
 | Easy | 26 |
-| Medium | 44 |
+| Medium | 45 |
 | Hard | 15 |
 
 > A problem is counted once, even if it has multiple solution files or belongs to multiple topics.
 
 ## Solutions by Topic
 
-### Array (58)
+### Array (59)
 
 - [**Two Sum**](https://leetcode.com/problems/two-sum/) — Easy · [two-sum.py](1-two-sum/two-sum.py)
 - [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) — Easy · [remove-duplicates-from-sorted-array.py](26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)
@@ -63,6 +63,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Count Non-Decreasing Subarrays After K Operations**](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) — Hard · [count-non-decreasing-subarrays-after-k-operations.py](3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.py)
 - [**Maximum Subarray With Equal Products**](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Easy · [maximum-subarray-with-equal-products.py](3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
+- [**Maximum Number of Items From Sale I**](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) — Medium · [maximum-number-of-items-from-sale-i.py](3742-maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.py)
 - [**Count Islands With Total Value Divisible by K**](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) — Medium · [count-islands-with-total-value-divisible-by-k.py](3823-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.py)
 - [**Find X Value of Array I**](https://leetcode.com/problems/find-x-value-of-array-i/) — Medium · [find-x-value-of-array-i.py](3831-find-x-value-of-array-i/find-x-value-of-array-i.py)
 - [**Find X Value of Array II**](https://leetcode.com/problems/find-x-value-of-array-ii/) — Hard · [find-x-value-of-array-ii.py](3840-find-x-value-of-array-ii/find-x-value-of-array-ii.py)
@@ -163,7 +164,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Palindromic Path Queries in a Tree**](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) — Hard · [palindromic-path-queries-in-a-tree.py](4209-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.py)
 - [**Minimum Operations to Sort With Locked Indices**](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) — Medium · [minimum-operations-to-sort-with-locked-indices.py](4325-minimum-operations-to-sort-with-locked-indices/minimum-operations-to-sort-with-locked-indices.py)
 
-### Dynamic Programming (16)
+### Dynamic Programming (17)
 
 - [**Generate Parentheses**](https://leetcode.com/problems/generate-parentheses/) — Medium · [generate-parentheses.py](22-generate-parentheses/generate-parentheses.py)
 - [**Longest Valid Parentheses**](https://leetcode.com/problems/longest-valid-parentheses/) — Hard · [longest-valid-parentheses.py](32-longest-valid-parentheses/longest-valid-parentheses.py)
@@ -176,6 +177,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [** Check if There Is a Valid Parentheses String Path**](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) — Hard · [check-if-there-is-a-valid-parentheses-string-path.py](2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.py)
 - [**Maximize Consecutive Elements in an Array After Modification**](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — Hard · [maximize-consecutive-elements-in-an-array-after-modification.py](3298-maximize-consecutive-elements-in-an-array-after-modification/maximize-consecutive-elements-in-an-array-after-modification.py)
 - [**Minimum Operations to Make Elements Within K Subarrays Equal**](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) — Hard · [minimum-operations-to-make-elements-within-k-subarrays-equal.py](3717-minimum-operations-to-make-elements-within-k-subarrays-equal/minimum-operations-to-make-elements-within-k-subarrays-equal.py)
+- [**Maximum Number of Items From Sale I**](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) — Medium · [maximum-number-of-items-from-sale-i.py](3742-maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.py)
 - [**Find X Value of Array I**](https://leetcode.com/problems/find-x-value-of-array-i/) — Medium · [find-x-value-of-array-i.py](3831-find-x-value-of-array-i/find-x-value-of-array-i.py)
 - [**Twisted Mirror Path Count**](https://leetcode.com/problems/twisted-mirror-path-count/) — Medium · [twisted-mirror-path-count.py](3938-twisted-mirror-path-count/twisted-mirror-path-count.py)
 - [**Number of ZigZag Arrays I**](https://leetcode.com/problems/number-of-zigzag-arrays-i/) — Hard · [number-of-zigzag-arrays-i.py](3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.py)
@@ -192,7 +194,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 
 - [**Circle and Rectangle Overlapping**](https://leetcode.com/problems/circle-and-rectangle-overlapping/) — Medium · [circle-and-rectangle-overlapping.py](1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.py)
 
-### Greedy (10)
+### Greedy (11)
 
 - [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) — Medium · [valid-parenthesis-string.py](678-valid-parenthesis-string/valid-parenthesis-string.py)
 - [**Minimum Add to Make Parentheses Valid**](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) — Medium · [minimum-add-to-make-parentheses-valid.py](957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py)
@@ -201,6 +203,7 @@ My LeetCode problem-solving repository. Solutions are primarily written in Pytho
 - [**Minimum Sum of Squared Difference**](https://leetcode.com/problems/minimum-sum-of-squared-difference/) — Medium · [minimum-sum-of-squared-difference.py](2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py)
 - [**Minimum Score by Changing Two Elements**](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) — Medium · [minimum-score-by-changing-two-elements.py](2706-minimum-score-by-changing-two-elements/minimum-score-by-changing-two-elements.py)
 - [**Apply Operations on Array to Maximize Sum of Squares**](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) — Hard · [apply-operations-on-array-to-maximize-sum-of-squares.py](3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.py)
+- [**Maximum Number of Items From Sale I**](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) — Medium · [maximum-number-of-items-from-sale-i.py](3742-maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.py)
 - [**Maximize Sum of Squares of Digits**](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) — Medium · [maximize-sum-of-squares-of-digits.py](4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.py)
 - [**Minimum Cost to Acquire Required Items**](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) — Medium · [minimum-cost-to-acquire-required-items.py](4147-minimum-cost-to-acquire-required-items/minimum-cost-to-acquire-required-items.py)
 - [**Minimum Operations to Sort With Locked Indices**](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) — Medium · [minimum-operations-to-sort-with-locked-indices.py](4325-minimum-operations-to-sort-with-locked-indices/minimum-operations-to-sort-with-locked-indices.py)

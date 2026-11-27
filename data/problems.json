@@ -1594,5 +1594,23 @@
         "slug": "simulation"
       }
     ]
+  },
+  "maximum-number-of-items-from-sale-i": {
+    "title": "Maximum Number of Items From Sale I",
+    "difficulty": "Medium",
+    "topics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
   }
 }
